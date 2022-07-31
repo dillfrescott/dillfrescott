@@ -1,7 +1,7 @@
 # 💫About Me :
 Hello! I am just a person who loves coffee and anime! <3
 
-[dillfrescott.com](https://dillfrescott.com) <--- My Website!
+[dill.moe](https://dill.moe) <--- My Website!
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dillfrescott) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dillfrescott) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DillFrescott) 
