@@ -11,7 +11,10 @@ Hello! I am just a person who loves coffee and anime! <3
 ![](https://github-profile-trophy.vercel.app/?username=DillFrescott&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dillfrescott&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   ## You can help me by Donating:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CrossNastasi/5)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=dillfrescott&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
