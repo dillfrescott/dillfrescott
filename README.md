@@ -6,7 +6,6 @@ Hello! I am just a person who loves coffee and anime! <3
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=DillFrescott&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DillFrescott&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DillFrescott&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DillFrescott&theme=radical&no-frame=false&no-bg=false&margin-w=4)
