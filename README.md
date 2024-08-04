@@ -13,7 +13,7 @@ Hello! I am just a person who loves coffee and anime! <3
 ---
 
   ## You can help me by Donating:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CrossNastasi/5)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate?business=SALKSSPHQ39C2)
 
 ---
 
